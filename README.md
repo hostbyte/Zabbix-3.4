@@ -1,1 +1,1 @@
-# zbx_3.4_templates
+# Templates traduzidos para português
